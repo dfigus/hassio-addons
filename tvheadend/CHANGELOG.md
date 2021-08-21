@@ -1,5 +1,15 @@
 # What's changed
 
+## v1.1.1
+
+### 🐛 Bug fixes
+
+- 🔨 Implement OCI image specification on labels (04a80b4) an issue while uninstalling.
+
+### ⬆️ Dependency updates
+
+- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#28)
+
 ## v1.1.0
 
 ### 🧰 Maintenance
