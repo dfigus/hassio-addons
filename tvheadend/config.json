@@ -31,5 +31,6 @@
   "schema": {
     "system_packages": ["str"],
     "init_commands": ["str"]
-  }
+  },
+  "image": "ghcr.io/gauthamvarmak/addon-tvheadend/{arch}"
 }
