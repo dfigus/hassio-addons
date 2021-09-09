@@ -32,5 +32,5 @@
     "system_packages": ["str"],
     "init_commands": ["str"]
   },
-  "image": "ghcr.io/gauthamvarmak/addon-tvheadend/{arch}"
+  "image": "ghcr.io/gauthamvarmak/tvheadend/{arch}"
 }
