@@ -1,6 +1,7 @@
 {
   "name": "TVHeadend",
-  "version": "2.0.0",
+  "version": "2.0.1",
+  "stage": "experimental",
   "slug": "tvheadend",
   "description": "TV streaming server and recorder.",
   "url": "https://github.com/GauthamVarmaK/addon-tvheadend",
@@ -29,8 +30,12 @@
     "init_commands": []
   },
   "schema": {
-    "system_packages": ["str"],
-    "init_commands": ["str"]
+    "system_packages": [
+      "str"
+    ],
+    "init_commands": [
+      "str"
+    ]
   },
   "image": "ghcr.io/gauthamvarmak/tvheadend/{arch}"
 }
