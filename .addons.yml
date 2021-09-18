@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  tvheadend:
+    repository: GauthamVarmaK/addon-tvheadend
+    target: tvheadend
+    image: ghcr.io/gauthamvarmak/tvheadend/{arch}
