@@ -6,8 +6,8 @@ arch:
 - i386
 description: TV streaming server and recorder.
 devices:
-- /dev/dvb/
-- /dev/dri/
+- /dev/dvb
+- /dev/dri
 image: ghcr.io/gauthamvarmak/tvheadend/{arch}
 map:
 - config:rw
@@ -29,5 +29,5 @@ schema:
 slug: tvheadend
 stage: experimental
 url: https://github.com/GauthamVarmaK/addon-tvheadend
-version: 2.1.1
+version: 2.1.2
 webui: http://[HOST]:[PORT:9981]/
