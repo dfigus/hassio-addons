@@ -1,15 +1,14 @@
 ## What’s changed
-Streamlink is now v3.0.3 up from v2.4.0, have a look for breaking changes.
-
-## 🚀 Enhancements
-- 🚀 Update CI to latest version @GauthamVarmaK ([64a8ef4](https://github.com/GauthamVarmaK/addon-tvheadend/commit/64a8ef45fa048fd2bc904c62fdcb1a16fb6a2e63))
+Streamlink is now v3.1.1 up from v3.0.3, have a look for breaking changes.
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump actions/checkout from 2.3.5 to 2.4.0 @dependabot (#49)
-- ⬆️ Bump Base Image form 10.1.1 to 11.0.0 @GauthamVarmaK ([3593c23](https://github.com/GauthamVarmaK/addon-tvheadend/commit/3593c2375fd834276a04cbe430d106c7fae8c701))
-- ⬆️ Bump actions/cache from 2.1.6 to 2.1.7 @dependabot (#57)
-- ⬆️ Bump creyD/prettier_action from 4.0 to 4.1.1 @dependabot (#63)
-- ⬆️ Bump docker/login-action from 1.10.0 to 1.12.0 @dependabot (#66)
-- ⬆️ Bump streamlink from 2.4.0 to 3.0.3 in /tvheadend @dependabot (#59)
-- ⬆️ Bump setuptools from 58.4.0 to 60.2.0 in /tvheadend @dependabot (#72)
+- ⬆️ Bump setuptools from 60.2.0 to 60.3.1 in /tvheadend @dependabot (#73)
+- ⬆️ Bump setuptools from 60.3.1 to 60.5.0 in /tvheadend @dependabot (#74)
+- ⬆️ Bump frenck/action-addon-linter from 2.5 to 2.6 @dependabot (#75)
+- ⬆️ Bump creyD/prettier_action from 4.1.1 to 4.2 @dependabot (#76)
+- ⬆️ Bump docker/build-push-action from 2.7.0 to 2.8.0 @dependabot (#77)
+- ⬆️ Bump streamlink from 3.0.3 to 3.1.1 in /tvheadend @dependabot (#80)
+- ⬆️ Bump setuptools from 60.5.0 to 60.6.0 in /tvheadend @dependabot (#81)
+- ⬆️ Bump docker/build-push-action from 2.8.0 to 2.9.0 @dependabot (#82)
+- ⬆️ Bump setuptools from 60.6.0 to 60.7.1 in /tvheadend @dependabot (#83)

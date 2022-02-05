@@ -21,7 +21,7 @@ Have included the following along with TVHeadend:
 
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/u/gauthamvarmak
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v2.2.1-blue.svg
-[release]: https://github.com/GauthamVarmaK/addon-tvheadend/tree/v2.2.1
+[release-shield]: https://img.shields.io/badge/version-v2.3.0-blue.svg
+[release]: https://github.com/GauthamVarmaK/addon-tvheadend/tree/v2.3.0
