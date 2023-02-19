@@ -30,5 +30,5 @@ schema:
 slug: tvheadend
 stage: experimental
 url: https://github.com/GauthamVarmaK/addon-tvheadend
-version: 2.4.2
+version: 2.4.3
 webui: http://[HOST]:[PORT:9981]/
