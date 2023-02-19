@@ -9,6 +9,7 @@ devices:
 - /dev/dvb
 - /dev/dri
 image: ghcr.io/gauthamvarmak/tvheadend/{arch}
+init: false
 map:
 - config:rw
 name: TVHeadend
@@ -29,5 +30,5 @@ schema:
 slug: tvheadend
 stage: experimental
 url: https://github.com/GauthamVarmaK/addon-tvheadend
-version: 2.3.0
+version: 2.4.2
 webui: http://[HOST]:[PORT:9981]/
