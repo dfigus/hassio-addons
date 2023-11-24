@@ -16,6 +16,7 @@ name: TVHeadend
 options:
   init_commands: []
   system_packages: []
+  args: str
 ports:
   9981/tcp: 9981
   9982/tcp: 9982
@@ -27,8 +28,9 @@ schema:
   - str
   system_packages:
   - str
+  args: str
 slug: tvheadend
 stage: experimental
-url: https://github.com/GauthamVarmaK/addon-tvheadend
+url: https://github.com/dfigus/addon-tvheadend
 version: 2.4.4
 webui: http://[HOST]:[PORT:9981]/
