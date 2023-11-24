@@ -8,7 +8,6 @@ description: TV streaming server and recorder.
 devices:
 - /dev/dvb
 - /dev/dri
-image: ghcr.io/gauthamvarmak/tvheadend/{arch}
 init: false
 map:
 - config:rw
@@ -16,7 +15,7 @@ name: TVHeadend
 options:
   init_commands: []
   system_packages: []
-  args: str
+  args: ""
 ports:
   9981/tcp: 9981
   9982/tcp: 9982
