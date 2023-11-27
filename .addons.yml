@@ -4,4 +4,4 @@ addons:
   tvheadend:
     repository: dfigus/addon-tvheadend
     target: tvheadend
-#    image: ghcr.io/gauthamvarmak/tvheadend/{arch}
+    image: ghcr.io/dfigus/tvheadend/{arch}
