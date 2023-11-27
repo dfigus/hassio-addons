@@ -1,16 +1,17 @@
+---
 arch:
-- aarch64
-- amd64
-- armhf
-- armv7
-- i386
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
 description: TV streaming server and recorder.
 devices:
-- /dev/dvb
-- /dev/dri
+  - /dev/dvb
+  - /dev/dri
 init: false
 map:
-- config:rw
+  - config:rw
 name: TVHeadend
 options:
   init_commands: []
@@ -24,9 +25,9 @@ ports_description:
   9982/tcp: TVH HTSP
 schema:
   init_commands:
-  - str
+    - str
   system_packages:
-  - str
+    - str
   args: str
 slug: tvheadend
 stage: experimental
