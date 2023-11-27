@@ -1,4 +1,4 @@
-# Home Assistant Add-ons by GauthamVarmaK
+# Home Assistant Add-ons by dfigus forked from GauthamVarmaK
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
