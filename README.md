@@ -1,4 +1,4 @@
-# Home Assistant Add-ons by dfigus forked from GauthamVarmaK
+# Home Assistant Add-ons by GauthamVarmaK
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -25,7 +25,7 @@ Adding this add-ons repository to your Home Assistant instance is pretty easy. I
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/GauthamVarmaK/hassio-addons
+https://github.com/dfigus/hassio-addons
 ```
 
 [![Opens your Home Assistant instance and show the add add-on repository dialog with the repository URL pre-filled](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)][my-ha-add-repo]
@@ -104,10 +104,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-tvheadend]: https://github.com/GauthamVarmaK/addon-tvheadend/tree/v2.4.4
-[addon-doc-tvheadend]: https://github.com/GauthamVarmaK/addon-tvheadend/blob/v2.4.4/README.md
-[tvheadend-issue]: https://github.com/GauthamVarmaK/addon-tvheadend/issues
-[tvheadend-version-shield]: https://img.shields.io/badge/version-v2.4.4-blue.svg
+[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/v3.0.0
+[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/v3.0.0/README.md
+[tvheadend-issue]: https://github.com/dfigus/addon-tvheadend/issues
+[tvheadend-version-shield]: https://img.shields.io/badge/version-v3.0.0-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -116,9 +116,10 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io?u=GauthamVarmaK
 [frenck]: https://github.com/frenck
 [gautham]: https://github.com/GauthamVarmaK
-[issue]: https://github.com/GauthamVarmaK/hassio-addons/issues
-[license-shield]: https://img.shields.io/github/license/GauthamVarmaK/hassio-addons.svg
+[dfigus]: https://github.com/dfigus
+[issue]: https://github.com/dfigus/hassio-addons/issues
+[license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
-[my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FGauthamVarmaK%2Fhassio-addons
+[my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdfigus%2Fhassio-addons
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
