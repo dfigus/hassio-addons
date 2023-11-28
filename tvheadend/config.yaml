@@ -32,5 +32,5 @@ schema:
 slug: tvheadend
 stage: experimental
 url: https://github.com/dfigus/addon-tvheadend
-version: 2.4.4
+version: 3.0.0
 webui: http://[HOST]:[PORT:9981]/
