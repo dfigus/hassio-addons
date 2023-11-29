@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🧰 Maintenance
+## 🐛 Bug fixes
 
-- Try to fix deploy-publish action @dfigus (#6)
+- Fix tvheadend run @dfigus (#7)
