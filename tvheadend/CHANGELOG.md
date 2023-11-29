@@ -2,4 +2,4 @@
 
 ## 🧰 Maintenance
 
-- Update publish for repository update @dfigus (#3)
+- Try to fix deploy-publish action @dfigus (#6)
