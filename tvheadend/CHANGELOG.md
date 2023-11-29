@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🚀 Enhancements
 
-- Fix tvheadend run @dfigus (#7)
+- Use host network for add-on @dfigus (#8)

@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 3.0.5
+version: 3.0.6
 stage: experimental
 slug: tvheadend
 description: TV streaming server and recorder.
@@ -12,6 +12,7 @@ arch:
 - armv7
 - i386
 webui: http://[HOST]:[PORT:9981]/
+host_network: true
 devices:
 - /dev/dvb
 - /dev/dri
