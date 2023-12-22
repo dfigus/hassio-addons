@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 3.1.1
+version: 4.0.0
 stage: experimental
 slug: tvheadend
 description: TV streaming server and recorder.
@@ -26,7 +26,8 @@ ports_description:
   9981/tcp: TVH Web Interface
   9982/tcp: TVH HTSP
 map:
-- config:rw
+- addon_config:rw
+- share:rw
 options:
   system_packages: []
   init_commands: []

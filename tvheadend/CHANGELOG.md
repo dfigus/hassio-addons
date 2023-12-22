@@ -1,22 +1,43 @@
-## What's Changed
-* Add Panel Icons by @dfigus in https://github.com/dfigus/addon-tvheadend/pull/12
-* ⬆️ Bump actions/checkout from 3 to 4 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/18
-* ⬆️ Bump actions/cache from 3.2.6 to 3.3.2 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/17
-* ⬆️ Bump docker/build-push-action from 4.0.0 to 5.1.0 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/16
-* Bump peter-evans/repository-dispatch from 2.1.1 to 2.1.2 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/21
-* Bump docker/setup-qemu-action from 2.1.0 to 3.0.0 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/20
-* ⬆️ Bump docker/setup-buildx-action from 2.4.1 to 3.0.0 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/15
-* ⬆️ Bump docker/login-action from 2.1.0 to 3.0.0 by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/13
-* ⬆️ Bump streamlink from 6.4.1 to 6.4.2 in /tvheadend by @dependabot in https://github.com/dfigus/addon-tvheadend/pull/14
-* Configure Renovate by @renovate in https://github.com/dfigus/addon-tvheadend/pull/19
-* ⬆️ Update Add-on base image to v14.3.3 by @renovate in https://github.com/dfigus/addon-tvheadend/pull/23
-* Introduce Edge & Beta Repositories by @dfigus in https://github.com/dfigus/addon-tvheadend/pull/25
-* Fix deploy workflow by @dfigus in https://github.com/dfigus/addon-tvheadend/pull/26
-* Update docs by @dfigus in https://github.com/dfigus/addon-tvheadend/pull/27
-* Update License by @dfigus in https://github.com/dfigus/addon-tvheadend/pull/28
-* ⬆️ Update streamlink to v6.5.0 by @renovate in https://github.com/dfigus/addon-tvheadend/pull/29
+## What’s changed
 
-## New Contributors
-* @dependabot made their first contribution in https://github.com/dfigus/addon-tvheadend/pull/18
+## 🚨 Breaking changes
 
-**Full Changelog**: https://github.com/dfigus/addon-tvheadend/compare/v3.1.0...v3.1.1
+- Compile tvheadend @dfigus (#22)
+
+## ✨ New features
+
+- Compile tvheadend @dfigus (#22)
+
+## 🐛 Bug fixes
+
+- Fix deploy workflow @dfigus (#26)
+
+## 🚀 Enhancements
+
+- Add Panel Icons @dfigus (#12)
+
+## 🧰 Maintenance
+
+- Configure Renovate @renovate (#19)
+- Introduce Edge & Beta Repositories @dfigus (#25)
+- Fix deploy workflow @dfigus (#26)
+
+## 📚 Documentation
+
+- Update docs @dfigus (#27)
+- Update License @dfigus (#28)
+- Update doc @dfigus (#31)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Bump actions/checkout from 3 to 4 @dependabot (#18)
+- ⬆️ Bump actions/cache from 3.2.6 to 3.3.2 @dependabot (#17)
+- ⬆️ Bump docker/build-push-action from 4.0.0 to 5.1.0 @dependabot (#16)
+- Bump peter-evans/repository-dispatch from 2.1.1 to 2.1.2 @dependabot (#21)
+- Bump docker/setup-qemu-action from 2.1.0 to 3.0.0 @dependabot (#20)
+- ⬆️ Bump docker/setup-buildx-action from 2.4.1 to 3.0.0 @dependabot (#15)
+- ⬆️ Bump docker/login-action from 2.1.0 to 3.0.0 @dependabot (#13)
+- ⬆️ Bump streamlink from 6.4.1 to 6.4.2 in /tvheadend @dependabot (#14)
+- ⬆️ Update Add-on base image to v14.3.3 @renovate (#23)
+- ⬆️ Update streamlink to v6.5.0 @renovate (#29)
+- ⬆️ Update alpine Docker tag to v3.19 @renovate (#30)
