@@ -4,7 +4,7 @@
 
 [![Community Forum][forum-shield]][forum]
 
-TVHeadend add-on by GauthamVarmaK.
+TVHeadend add-on by Daniel Figus.
 
 ## About
 
@@ -20,8 +20,7 @@ Have included the following along with TVHeadend:
 -Streamlink
 
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/u/gauthamvarmak
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.1.0-blue.svg
-[release]: https://github.com/dfigus/addon-tvheadend/tree/v3.1.0
+[release-shield]: https://img.shields.io/badge/version-v3.1.1-blue.svg
+[release]: https://github.com/dfigus/addon-tvheadend/tree/v3.1.1
