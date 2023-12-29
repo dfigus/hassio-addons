@@ -1,4 +1,4 @@
-# Home Assistant Add-ons by GauthamVarmaK
+# Home Assistant Add-ons by Daniel Figus
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -13,7 +13,8 @@ providing extra Home Assistant add-ons for your installation.
 
 The primary goal of this project is to provide you (as a Home Assistant user)
 with additional, high quality, add-ons that allow you to take your automated
-home to the next level, developed by [GauthamVarmaK][gautham].
+home to the next level, developed by [Daniel Figus][dfigus], originally forked
+from [GauthamVarmaK][gautham].
 
 This has been possible thanks to the community add-ons initiative by [Frenck]
 
@@ -84,7 +85,7 @@ Thank you for being involved! :heart_eyes:
 
 MIT License
 
-Copyright (c) 2020-2021 Gautham Varma K
+Copyright (c) 2023-2024 Daniel Figus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -113,9 +114,7 @@ SOFTWARE.
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[forum]: https://community.home-assistant.io?u=GauthamVarmaK
 [frenck]: https://github.com/frenck
-[gautham]: https://github.com/GauthamVarmaK
 [dfigus]: https://github.com/dfigus
 [issue]: https://github.com/dfigus/hassio-addons/issues
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons.svg
