@@ -1,43 +1,32 @@
 ## What’s changed
 
-## 🚨 Breaking changes
-
-- Compile tvheadend @dfigus (#22)
-
 ## ✨ New features
 
-- Compile tvheadend @dfigus (#22)
+- Add PICONS @dfigus (#36)
 
 ## 🐛 Bug fixes
 
-- Fix deploy workflow @dfigus (#26)
+- Fix renovate for picons @dfigus (#37)
+- Picons & renovate II @dfigus (#38)
+- Renovate for picons III @dfigus (#40)
 
 ## 🚀 Enhancements
 
-- Add Panel Icons @dfigus (#12)
+- Pin comskip to commit and enable renovate @dfigus (#42)
 
 ## 🧰 Maintenance
 
-- Configure Renovate @renovate (#19)
-- Introduce Edge & Beta Repositories @dfigus (#25)
-- Fix deploy workflow @dfigus (#26)
-
-## 📚 Documentation
-
-- Update docs @dfigus (#27)
-- Update License @dfigus (#28)
-- Update doc @dfigus (#31)
+- Fix renovate REGEX for TVHeadend @dfigus (#34)
+- Fix renovate for picons @dfigus (#37)
+- Picons & renovate II @dfigus (#38)
+- Renovate for picons III @dfigus (#40)
+- Pin comskip to commit and enable renovate @dfigus (#42)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump actions/checkout from 3 to 4 @dependabot (#18)
-- ⬆️ Bump actions/cache from 3.2.6 to 3.3.2 @dependabot (#17)
-- ⬆️ Bump docker/build-push-action from 4.0.0 to 5.1.0 @dependabot (#16)
-- Bump peter-evans/repository-dispatch from 2.1.1 to 2.1.2 @dependabot (#21)
-- Bump docker/setup-qemu-action from 2.1.0 to 3.0.0 @dependabot (#20)
-- ⬆️ Bump docker/setup-buildx-action from 2.4.1 to 3.0.0 @dependabot (#15)
-- ⬆️ Bump docker/login-action from 2.1.0 to 3.0.0 @dependabot (#13)
-- ⬆️ Bump streamlink from 6.4.1 to 6.4.2 in /tvheadend @dependabot (#14)
-- ⬆️ Update Add-on base image to v14.3.3 @renovate (#23)
-- ⬆️ Update streamlink to v6.5.0 @renovate (#29)
-- ⬆️ Update alpine Docker tag to v3.19 @renovate (#30)
+- ⬆️ Update setuptools to v69.0.3 @renovate (#32)
+- ⬆️ Update Add-on base image to v15 (major) @renovate (#24)
+- ⬆️ Update tvheadend digest to fd8b9e8 @renovate (#33)
+- ⬆️ Update Add-on base image to v15.0.3 @renovate (#35)
+- ⬆️ Update picons/picons to v2023-12-22--22-32-19 @renovate (#41)
+- ⬆️ Update comskip digest to 6e66de5 @renovate (#43)
