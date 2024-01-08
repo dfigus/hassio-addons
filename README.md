@@ -118,7 +118,7 @@ SOFTWARE.
 [dfigus]: https://github.com/dfigus
 [issue]: https://github.com/dfigus/hassio-addons/issues
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdfigus%2Fhassio-addons
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
