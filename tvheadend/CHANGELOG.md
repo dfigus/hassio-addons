@@ -1,5 +1,16 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🧰 Maintenance
 
-- Patch tvheadend cookie handling @dfigus (#48) to address (#46)
+- Set min release age for picons @dfigus (#50)
+- Enable renovate config migration PRs @dfigus (#51)
+
+## 📚 Documentation
+
+- Add comskip and picons doc & general improvements @dfigus (#53)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update tvheadend digest to 2151348 @renovate (#49)
+- ⬆️: migrate renovate config @renovate (#52)
+- ⬆️ Update picons/picons to v2024 @renovate (#54)
