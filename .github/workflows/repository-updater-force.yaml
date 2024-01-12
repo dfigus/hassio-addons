@@ -1,5 +1,5 @@
 ---
-name: Repository Update
+name: Repository Update Manual
 
 # yamllint disable-line rule:truthy
 on:
@@ -27,4 +27,4 @@ jobs:
           addon: ${{ inputs.addon }}
           repository: ${{ github.repository }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          force: ${{ inputs.addon }}
+          force: ${{ inputs.force }}
