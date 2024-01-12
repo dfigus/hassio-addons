@@ -1,0 +1,30 @@
+---
+name: Repository Update
+
+# yamllint disable-line rule:truthy
+on:
+  workflow_dispatch:
+    inputs:
+      addon:
+        description: 'Addon to update'
+        required: true
+        default: 'tvheadend'
+        type: string
+      force:
+        description: 'Force Update'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  whatever:
+    name: Running updater for ${{ inputs.addon }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚀 Run Repository Updater
+        uses: hassio-addons/repository-updater@v1
+        with:
+          addon: ${{ inputs.addon }}
+          repository: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          force: ${{ inputs.addon }}
