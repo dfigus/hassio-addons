@@ -60,16 +60,13 @@ based on the following:
 
 Got questions?
 
-You have several options to get them answered:
-
-- The Home Assistant [Community Forum][forum].
-- You could also [open an issue here][issue] here on GitHub. Note, we use a
- separate GitHub repository for each add-on. Please ensure you are creating
- the issue on the correct GitHub repository matching the add-on.
+We use a separate GitHub repository for each add-on. Please ensure you are 
+creating the issue on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: TVHeadend][tvheadend-issue]
 
-For a general repository issue or add-on ideas [open an issue here][issue]
+For a general repository issue or add-on ideas open an [issue][issues] or start
+a [discussion][discussions] here.
 
 ## Contributing
 
@@ -115,8 +112,10 @@ SOFTWARE.
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [frenck]: https://github.com/frenck
+[gautham]: https://github.com/GauthamVarmaK
 [dfigus]: https://github.com/dfigus
-[issue]: https://github.com/dfigus/hassio-addons/issues
+[issues]: https://github.com/dfigus/hassio-addons/issues
+[discussions]: https://github.com/dfigus/hassio-addons/discussions
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [my-ha-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdfigus%2Fhassio-addons
