@@ -1,16 +1,11 @@
 ## What’s changed
 
-## 🧰 Maintenance
-
-- Set min release age for picons @dfigus (#50)
-- Enable renovate config migration PRs @dfigus (#51)
-
 ## 📚 Documentation
 
-- Add comskip and picons doc & general improvements @dfigus (#53)
+- Update Readme Template @dfigus (#57)
+- Update image links in DOCS to work from addon repos @dfigus (#58)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update tvheadend digest to 2151348 @renovate (#49)
-- ⬆️: migrate renovate config @renovate (#52)
-- ⬆️ Update picons/picons to v2024 @renovate (#54)
+- ⬆️ Update Add-on base image to v15.0.4 @renovate (#55)
+- ⬆️ Update tvheadend digest to c9b38a8 @renovate (#56)
