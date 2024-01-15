@@ -1,12 +1,10 @@
 name: TVHeadend
-version: 4.1.4
-stage: experimental
+version: 4.2.0
 slug: tvheadend
 description: TV streaming server and recorder.
 url: https://github.com/dfigus/addon-tvheadend
 ingress: true
 ingress_stream: true
-ingress_port: 80
 init: false
 panel_icon: mdi:television
 arch:
@@ -28,14 +26,17 @@ ports_description:
 map:
 - addon_config:rw
 - share:rw
+- media:rw
 options:
   system_packages: []
   init_commands: []
   args: ''
+  comskip_ini: ''
 schema:
   system_packages:
-  - str
+  - str?
   init_commands:
-  - str
-  args: str
+  - str?
+  args: str?
+  comskip_ini: str?
 image: ghcr.io/dfigus/tvheadend/{arch}
