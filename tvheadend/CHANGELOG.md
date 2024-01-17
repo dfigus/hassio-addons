@@ -1,23 +1,15 @@
 ## What’s changed
 
-## ✨ New features
+## 🐛 Bug fixes
 
-- Switch recordings folder to media @dfigus (#61)
-- Comskip ini config @dfigus (#65)
+- Always create recordings folder if not existing @dfigus (#66)
 
 ## 🚀 Enhancements
 
-- Remove fallback to build latest TVHeadend commit @dfigus (#60)
-- NGINX security enhancements @dfigus (#64)
-
-## 🧰 Maintenance
-
-- Define regex versioning for picons releases @dfigus (#63)
-
-## 📚 Documentation
-
-- Remove stage experimental @dfigus (#59)
+- Map PI 4 hardware acceleration devices @dfigus (#69)
+- Fix long line in translations @dfigus (#70)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update picons/picons to v2024-01-11--21-19-56 @renovate (#62)
+- ⬆️ Update Add-on base image to v15.0.5 @renovate (#68)
+- ⬆️ Update streamlink to v6.5.1 @renovate (#67)
