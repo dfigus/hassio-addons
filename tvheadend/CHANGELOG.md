@@ -1,15 +1,13 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🧰 Maintenance
 
-- Always create recordings folder if not existing @dfigus (#66)
-
-## 🚀 Enhancements
-
-- Map PI 4 hardware acceleration devices @dfigus (#69)
-- Fix long line in translations @dfigus (#70)
+- Improve Renovate Config @dfigus (#75)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Add-on base image to v15.0.5 @renovate (#68)
-- ⬆️ Update streamlink to v6.5.1 @renovate (#67)
+- ⬆️ Update alpine_3_19/ffmpeg to v6.1.1-r0 @renovate (#71)
+- ⬆️ Update tvheadend digest to e954d16 @renovate (#72)
+- ⬆️ Update alpine_3_19/zlib to v1.3.1-r0 @renovate (#74)
+- ⬆️ Update tvheadend digest to 7b76233 @renovate (#73)
+- ⬆️ Update picons/picons to v2024-01-21--00-20-09 @renovate (#76)
