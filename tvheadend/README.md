@@ -21,13 +21,15 @@ This add-on has the following additional software preinstalled:
 
 - [picons][picons]: Channel icons
 - [Comskip][comskip]: A tool to mark commercials in recordings (autoskipped in Kodi)
+- [Comchap & Comcut][comchap]: Utilities to add chapters or cut commercials based on detected commercials from Comskip
 - [StreamLink][streamlink]
 
 [picons]: https://github.com/picons/picons
 [comskip]: https://github.com/erikkaashoek/Comskip
+[comchap]: https://github.com/BrettSheleski/comchap
 [streamlink]: https://streamlink.github.io/
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v5.0.2-blue.svg
-[release]: https://github.com/dfigus/addon-tvheadend/tree/v5.0.2
+[release-shield]: https://img.shields.io/badge/version-v5.1.0-blue.svg
+[release]: https://github.com/dfigus/addon-tvheadend/tree/v5.1.0

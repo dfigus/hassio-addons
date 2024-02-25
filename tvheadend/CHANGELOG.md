@@ -1,30 +1,17 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## ✨ New features
 
-- Try to map the dvb devices directly in the config.yaml @dfigus (#108)
-- Add more dvb adapters @dfigus (#113)
+- Add comchap & comskip @dfigus (#133)
 
 ## 🧰 Maintenance
 
-- Add markdown extension to devcontainer.json @dfigus (#114)
-- Limit TVH, Comskip & Picons automerge to Saturday @dfigus (#126)
-
-## 📚 Documentation
-
-- Improve issue template @dfigus (#110)
+- Group Alpine Package in one Renovate PR @dfigus (#131)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update alpine_3_19/libxml2 to v2.11.7-r0 @renovate (#105)
-- ⬆️ Update tvheadend digest to 4c1a1d2 @renovate (#111)
-- ⬆️ Update streamlink to v6.6.0 @renovate (#116)
-- ⬆️ Update tvheadend digest to ccb8b5e @renovate (#117)
-- ⬆️ Update tvheadend digest to d85be49 @renovate (#118)
-- ⬆️ Update streamlink to v6.6.1 @renovate (#119)
-- ⬆️ Update tvheadend digest to 757eaa9 @renovate (#120)
-- ⬆️ Update tvheadend digest to 075e6cd @renovate (#121)
-- ⬆️ Update tvheadend digest to 6372bd0 @renovate (#122)
-- ⬆️ Update picons/picons to v2024-02-17--00-08-41 @renovate (#123)
-- ⬆️ Update tvheadend digest to 15e1e3f @renovate (#124)
-- ⬆️ Update tvheadend digest to 4430ee7 @renovate (#125)
+- ⬆️ Update alpine_3_19/mesa-va-gallium to v23.3.6-r0 @renovate (#128)
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 @renovate (#130)
+- ⬆️ Update streamlink to v6.6.2 @renovate (#132)
+- ⬆️ Update setuptools to v69.1.1 @renovate (#134)
+- ⬆️ Update tvheadend digest to ae51d24 @renovate (#127)
