@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 5.1.1
+version: 5.1.2
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
@@ -15,6 +15,8 @@ arch:
 - armv7
 - i386
 host_network: true
+video: true
+usb: true
 devices:
 - /dev/dvb/
 - /dev/dvb/adapter0/demux0
