@@ -1,9 +1,18 @@
 ## What’s changed
 
+## 🧰 Maintenance
+
+- Group major Base Image and Alpine Updates together @dfigus (#192)
+- Renovate merge @dfigus (#195)
+- Don't separate major deps updates for Docker deps @dfigus (#198)
+- Revert Renovate Config Changes for Merging @dfigus (#200)
+
 ## ⬆️ Dependency updates
 
-- ⬆️ Update picons/picons to v2024-04-28--00-28-35 @renovate (#179)
-- ⬆️ Update picons/picons to v2024-05-03--20-17-24 @renovate (#181)
-- ⬆️ Update streamlink to v6.7.4 @renovate (#182)
-- ⬆️ Update picons/picons to v2024-05-09--21-55-14 @renovate (#183)
-- ⬆️ Update alpine_3_19/uriparser to v0.9.8-r0 @renovate (#184)
+- ⬆️ Update Alpine packages to v2.11.8-r0 @renovate (#185)
+- ⬆️ Update picons/picons to v2024-05-17--23-25-06 @renovate (#186)
+- ⬆️ Update Add-on base image to v15.0.9 @renovate (#187)
+- ⬆️ Update picons/picons to v2024-06-01--23-08-36 @renovate (#190)
+- ⬆️ Update setuptools to v70 @renovate (#188)
+- ⬆️ Update alpine Docker tag to v3.20 @renovate (#189)
+- ⬆️ Update Add-on base image to v16 (major) @renovate (#191)
