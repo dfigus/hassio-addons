@@ -2,17 +2,26 @@
 
 ## 🧰 Maintenance
 
-- Group major Base Image and Alpine Updates together @dfigus (#192)
-- Renovate merge @dfigus (#195)
-- Don't separate major deps updates for Docker deps @dfigus (#198)
-- Revert Renovate Config Changes for Merging @dfigus (#200)
+- Update Renovate to use Alpine 3.20 @dfigus (#204)
+- Renovate Workaround for Repology Server Overload @dfigus (#217)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Alpine packages to v2.11.8-r0 @renovate (#185)
-- ⬆️ Update picons/picons to v2024-05-17--23-25-06 @renovate (#186)
-- ⬆️ Update Add-on base image to v15.0.9 @renovate (#187)
-- ⬆️ Update picons/picons to v2024-06-01--23-08-36 @renovate (#190)
-- ⬆️ Update setuptools to v70 @renovate (#188)
-- ⬆️ Update alpine Docker tag to v3.20 @renovate (#189)
-- ⬆️ Update Add-on base image to v16 (major) @renovate (#191)
+- Update ffmpeg4 deps @dfigus (#206)
+- ⬆️ Update setuptools to v70.1.1 @renovate (#209)
+- ⬆️ Update picons/picons to v2024-06-22--23-23-33 @renovate (#207)
+- ⬆️ Update tvheadend digest to 128d686 @renovate (#203)
+- ⬆️ Update comskip digest to 2ef8684 @renovate (#202)
+- ⬆️ Update streamlink to v6.8.1 @renovate (#210)
+- ⬆️ Update Add-on base image to v16.1.0 @renovate (#208)
+- ⬆️ Update alpine_3_20/py3-requests to v2.32.3-r0 @renovate (#215)
+- ⬆️ Update tvheadend digest to d2e41b5 @renovate (#211)
+- ⬆️ Update picons/picons to v2024-07-06--22-54-54 @renovate (#213)
+- ⬆️ Update streamlink to v6.8.2 @renovate (#214)
+- ⬆️ Update Add-on base image to v16.1.2 @renovate (#212)
+- ⬆️ Update streamlink to v6.8.3 @renovate (#218)
+- ⬆️ Update setuptools to v70.3.0 @renovate (#216)
+- ⬆️ Update tvheadend digest to 1dc8ffe @renovate (#219)
+- ⬆️ Update Add-on base image to v16.1.3 @renovate (#220)
+- ⬆️ Update picons/picons to v2024-07-13--00-16-24 @renovate (#221)
+- ⬆️ Update setuptools to v71 @renovate (#222)
