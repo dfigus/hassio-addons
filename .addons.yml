@@ -5,3 +5,7 @@ addons:
     repository: dfigus/addon-tvheadend
     target: tvheadend
     image: ghcr.io/dfigus/tvheadend/{arch}
+  solarflow-control:
+    repository: dfigus/addon-solarflow-control
+    target: solarflow-control
+    image: ghcr.io/dfigus/solarflow-control/{arch}
