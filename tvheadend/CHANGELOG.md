@@ -1,16 +1,19 @@
 ## What’s changed
 
-## 🐛 Bug fixes
-
-- Downgrade curl to due regression in 8.10.0 @dfigus (#260)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Add-on base image to v16.3.1 @renovate (#256)
-- ⬆️ Update setuptools to v74.1.3 @renovate (#257)
-- ⬆️ Update picons/picons to v2024-09-12--21-17-13 @renovate (#259)
-- ⬆️ Update picons/picons to v2024-09-21--23-05-53 @renovate (#261)
-- ⬆️ Update tvheadend digest to 55404da @renovate (#262)
-- ⬆️ Update setuptools to v75 @renovate (#258)
-- ⬆️ Update tvheadend digest to 05c3170 @renovate (#263)
-- ⬆️ Update tvheadend digest to 28de5c0 @renovate (#264)
+- ⬆️ Update picons/picons to v2024-09-28--20-50-07 @renovate (#265)
+- ⬆️ Update Add-on base image to v16.3.2 @renovate (#266)
+- ⬆️ Update alpine_3_20/curl to v8.10.1-r0 @renovate (#267)
+- ⬆️ Update streamlink to v6.11.0 @renovate (#268)
+- ⬆️ Update tvheadend digest to eee5cda @renovate (#269)
+- ⬆️ Update picons/picons to v2024-10-04--19-12-17 @renovate (#270)
+- ⬆️ Update Alpine packages to v3.12.7-r0 @renovate (#271)
+- ⬆️ Update tvheadend digest to 26ec161 @renovate (#272)
+- ⬆️ Update Add-on base image to v16.3.3 @renovate (#273)
+- ⬆️ Update picons/picons to v2024-10-12--22-12-05 @renovate (#274)
+- ⬆️ Update setuptools to v75.2.0 @renovate (#275)
+- ⬆️ Update alpine_3_20/openssl-dev to v3.3.2-r1 @renovate (#276)
+- ⬆️ Update picons/picons to v2024-10-19--21-18-53 @renovate (#277)
+- ⬆️ Update Add-on base image to v16.3.4 @renovate (#278)
+- ⬆️ Update picons/picons to v2024-10-24--22-16-09 @renovate (#279)
