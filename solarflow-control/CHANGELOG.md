@@ -1,8 +1,14 @@
 ## What’s changed
 
+## ✨ New features
+
+- Add Control SoC Config @dfigus (#33)
+
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Add-on base image to v14.0.3 @renovate (#23)
-- ⬆️ Update Add-on base image to v14.0.3 @renovate (#24)
-- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.74 @renovate (#25)
-- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.75 @renovate (#26)
+- ⬆️ Update Add-on base image to v14.0.4 @renovate (#27)
+- ⬆️ Update Add-on base image to v14.0.4 @renovate (#28)
+- ⬆️ Update Add-on base image to v15 (major) @renovate (#29)
+- ⬆️ Update Add-on base image to v15 (major) @renovate (#30)
+- ⬆️ Update Add-on base image to v15.0.1 @renovate (#31)
+- ⬆️ Update ghcr.io/hassio-addons/base-python/aarch64 Docker tag to v15.0.1 @renovate (#32)
