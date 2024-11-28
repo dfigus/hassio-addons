@@ -23,13 +23,15 @@ This add-on has the following additional software preinstalled:
 - [Comskip][comskip]: A tool to mark commercials in recordings (autoskipped in Kodi)
 - [Comchap & Comcut][comchap]: Utilities to add chapters or cut commercials based on detected commercials from Comskip
 - [StreamLink][streamlink]
+- [WebGrab++][wg++]: A XMLTV EPG grabber for many sites. Useful in case OTA EPG is not sufficient.
 
 [picons]: https://github.com/picons/picons
 [comskip]: https://github.com/erikkaashoek/Comskip
 [comchap]: https://github.com/BrettSheleski/comchap
 [streamlink]: https://streamlink.github.io/
+[wg++]: http://www.webgrabplus.com/
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v6.0.2-blue.svg
-[release]: https://github.com/dfigus/addon-tvheadend/tree/v6.0.2
+[release-shield]: https://img.shields.io/badge/version-v7.0.0-blue.svg
+[release]: https://github.com/dfigus/addon-tvheadend/tree/v7.0.0

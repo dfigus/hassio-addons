@@ -1,19 +1,43 @@
 ## What’s changed
 
+## 🚨 Breaking changes
+
+⚠️ **Architectures `armhf` and `i386` are NO longer supported!!** ⚠️ 
+There reason is that WebGrab+Plus requires dotnet 8 and this is not available for `armhf` and` i386`.
+
+- Add WebGrab+Plus @dfigus (#287)
+
+## ✨ New features
+
+- Add WebGrab+Plus @dfigus (#287)
+- Enhance WG++ Integration @dfigus (#295)
+
+## 🐛 Bug fixes
+
+- Fix WG++ doc image @dfigus (#299)
+
+## 🚀 Enhancements
+
+- Add ha api @dfigus (#300)
+
+## 📚 Documentation
+
+- Update README with supported architectures @dfigus (#301)
+
 ## ⬆️ Dependency updates
 
-- ⬆️ Update picons/picons to v2024-09-28--20-50-07 @renovate (#265)
-- ⬆️ Update Add-on base image to v16.3.2 @renovate (#266)
-- ⬆️ Update alpine_3_20/curl to v8.10.1-r0 @renovate (#267)
-- ⬆️ Update streamlink to v6.11.0 @renovate (#268)
-- ⬆️ Update tvheadend digest to eee5cda @renovate (#269)
-- ⬆️ Update picons/picons to v2024-10-04--19-12-17 @renovate (#270)
-- ⬆️ Update Alpine packages to v3.12.7-r0 @renovate (#271)
-- ⬆️ Update tvheadend digest to 26ec161 @renovate (#272)
-- ⬆️ Update Add-on base image to v16.3.3 @renovate (#273)
-- ⬆️ Update picons/picons to v2024-10-12--22-12-05 @renovate (#274)
-- ⬆️ Update setuptools to v75.2.0 @renovate (#275)
-- ⬆️ Update alpine_3_20/openssl-dev to v3.3.2-r1 @renovate (#276)
-- ⬆️ Update picons/picons to v2024-10-19--21-18-53 @renovate (#277)
-- ⬆️ Update Add-on base image to v16.3.4 @renovate (#278)
-- ⬆️ Update picons/picons to v2024-10-24--22-16-09 @renovate (#279)
+- ⬆️ Update setuptools to v75.3.0 @renovate (#280)
+- ⬆️ Update picons/picons to v2024-10-31--22-20-37 @renovate (#281)
+- ⬆️ Update alpine_3_20/curl to v8.11.0-r0 @renovate (#283)
+- ⬆️ Update alpine_3_20/curl to v8.11.0-r1 @renovate (#284)
+- ⬆️ Update Add-on base image to v16.3.5 @renovate (#285)
+- ⬆️ Update picons/picons to v2024-11-08--23-41-52 @renovate (#286)
+- ⬆️ Update setuptools to v75.4.0 @renovate (#289)
+- ⬆️ Update alpine_3_20/curl to v8.11.0-r2 @renovate (#288)
+- ⬆️ Update Add-on base image to v16.3.6 @renovate (#290)
+- ⬆️ Update tvheadend digest to 653bd04 @renovate (#291)
+- ⬆️ Update setuptools to v75.5.0 @renovate (#292)
+- ⬆️ Update alpine_3_20/dotnet8-runtime to v8.0.11-r0 @renovate (#293)
+- ⬆️ Update picons/picons to v2024-11-14--16-55-04 @renovate (#294)
+- ⬆️ Update setuptools to v75.6.0 @renovate (#297)
+- ⬆️ Update picons/picons to v2024-11-22--15-37-34 @renovate (#298)

@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 6.0.2
+version: 7.0.0
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
@@ -11,13 +11,12 @@ panel_icon: mdi:television
 arch:
 - aarch64
 - amd64
-- armhf
 - armv7
-- i386
 host_network: true
 video: true
 usb: true
 udev: true
+homeassistant_api: true
 devices:
 - /dev/dvb/
 - /dev/dvb/adapter0/demux0
@@ -71,6 +70,7 @@ options:
   init_commands: []
   args: ''
   comskip_ini: ''
+  wg_channels: []
 schema:
   system_packages:
   - str?
@@ -78,4 +78,9 @@ schema:
   - str?
   args: str?
   comskip_ini: str?
+  wg_channels:
+  - country: str?
+    site: str?
+    channel: str?
+  wg_config: str?
 image: ghcr.io/dfigus/tvheadend/{arch}
