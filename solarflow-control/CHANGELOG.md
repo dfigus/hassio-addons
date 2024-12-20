@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Add max_inverter_input config @dfigus (#41)
+- Fix latitude & longitude replacements @dfigus (#43)
