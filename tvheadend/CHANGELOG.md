@@ -2,5 +2,8 @@
 
 ## 🐛 Bug fixes
 
-- Fix Race Condition in Config Folder Creation @dfigus (#331)
-- Remove Duplicate WG++ Build in Dockerfile @dfigus (#332)
+- Remove default WG++ license from config @dfigus (#335)
+
+## 🧰 Maintenance
+
+- Fix WG++ Build @dfigus (#334)
