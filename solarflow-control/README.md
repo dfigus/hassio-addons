@@ -17,7 +17,7 @@ features:
 [reinhard-brandstaedter]: https://github.com/reinhard-brandstaedter
 [sf-control]: https://github.com/reinhard-brandstaedter/solarflow-control
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.10.3-blue.svg
-[release]: https://github.com/dfigus/addon-solarflow-control/tree/v0.10.3
+[release-shield]: https://img.shields.io/badge/version-v0.10.4-blue.svg
+[release]: https://github.com/dfigus/addon-solarflow-control/tree/v0.10.4
