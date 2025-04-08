@@ -1,9 +1,41 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## ⬆️ Dependency updates
 
-- Remove default WG++ license from config @dfigus (#335)
-
-## 🧰 Maintenance
-
-- Fix WG++ Build @dfigus (#334)
+- ⬆️ Update picons/picons to v2025-02-02--16-21-58 @[renovate[bot]](https://github.com/apps/renovate) (#325)
+- ⬆️ Update Add-on base image to v17.1.1 @[renovate[bot]](https://github.com/apps/renovate) (#337)
+- ⬆️ Update alpine_3_21/curl to v8.12.0-r0 @[renovate[bot]](https://github.com/apps/renovate) (#336)
+- ⬆️ Update Alpine packages @[renovate[bot]](https://github.com/apps/renovate) (#338)
+- ⬆️ Update alpine_3_21/openssl-dev to v3.3.2-r6 @[renovate[bot]](https://github.com/apps/renovate) (#340)
+- ⬆️ Update Add-on base image to v17.1.2 @[renovate[bot]](https://github.com/apps/renovate) (#339)
+- ⬆️ Update picons/picons to v2025-02-08--22-25-58 @[renovate[bot]](https://github.com/apps/renovate) (#341)
+- ⬆️ Update comskip digest to 55b0bcd @[renovate[bot]](https://github.com/apps/renovate) (#333)
+- ⬆️ Update Add-on base image to v17.1.3 @[renovate[bot]](https://github.com/apps/renovate) (#342)
+- ⬆️ Update alpine_3_21/openssl-dev to v3.3.3-r0 @[renovate[bot]](https://github.com/apps/renovate) (#343)
+- ⬆️ Update Add-on base image to v17.1.4 @[renovate[bot]](https://github.com/apps/renovate) (#344)
+- ⬆️ Update Alpine packages @[renovate[bot]](https://github.com/apps/renovate) (#345)
+- ⬆️ Update streamlink to v7.1.3 @[renovate[bot]](https://github.com/apps/renovate) (#347)
+- ⬆️ Update Add-on base image to v17.2.0 @[renovate[bot]](https://github.com/apps/renovate) (#346)
+- ⬆️ Update Add-on base image to v17.2.1 @[renovate[bot]](https://github.com/apps/renovate) (#348)
+- ⬆️ Update picons/picons to v2025-02-15--17-52-06 @[renovate[bot]](https://github.com/apps/renovate) (#349)
+- ⬆️ Update picons/picons to v2025-02-22--21-45-01 @[renovate[bot]](https://github.com/apps/renovate) (#350)
+- ⬆️ Update setuptools to v75.8.1 @[renovate[bot]](https://github.com/apps/renovate) (#351)
+- ⬆️ Update setuptools to v75.8.2 @[renovate[bot]](https://github.com/apps/renovate) (#352)
+- ⬆️ Update alpine_3_21/dotnet8-runtime to v8.0.13-r0 @[renovate[bot]](https://github.com/apps/renovate) (#353)
+- ⬆️ Update picons/picons to v2025-03-01--13-34-35 @[renovate[bot]](https://github.com/apps/renovate) (#354)
+- ⬆️ Update Alpine packages to v2.13.4-r4 @[renovate[bot]](https://github.com/apps/renovate) (#355)
+- ⬆️ Update Alpine packages to v2.13.4-r5 @[renovate[bot]](https://github.com/apps/renovate) (#356)
+- ⬆️ Update picons/picons to v2025-03-04--22-19-23 @[renovate[bot]](https://github.com/apps/renovate) (#357)
+- ⬆️ Update setuptools to v75.9.1 @[renovate[bot]](https://github.com/apps/renovate) (#358)
+- ⬆️ Update Alpine packages to v1.1.42-r2 @[renovate[bot]](https://github.com/apps/renovate) (#360)
+- ⬆️ Update Alpine packages @[renovate[bot]](https://github.com/apps/renovate) (#362)
+- ⬆️ Update picons/picons to v2025-03-15--16-00-03 @[renovate[bot]](https://github.com/apps/renovate) (#363)
+- ⬆️ Update Add-on base image to v17.2.2 @[renovate[bot]](https://github.com/apps/renovate) (#361)
+- ⬆️ Update picons/picons to v2025-03-20--23-14-50 @[renovate[bot]](https://github.com/apps/renovate) (#365)
+- ⬆️ Update picons/picons to v2025-03-29--17-13-18 @[renovate[bot]](https://github.com/apps/renovate) (#367)
+- ⬆️ Update Add-on base image to v17.2.3 @[renovate[bot]](https://github.com/apps/renovate) (#368)
+- ⬆️ Update setuptools to v78 @[renovate[bot]](https://github.com/apps/renovate) (#366)
+- ⬆️ Update comskip digest to 9497bf2 @[renovate[bot]](https://github.com/apps/renovate) (#370)
+- ⬆️ Update streamlink to v7.2.0 @[renovate[bot]](https://github.com/apps/renovate) (#369)
+- ⬆️ Update picons/picons to v2025-04-01--17-55-40 @[renovate[bot]](https://github.com/apps/renovate) (#371)
+- ⬆️ Update Add-on base image to v17.2.4 @[renovate[bot]](https://github.com/apps/renovate) (#372)
