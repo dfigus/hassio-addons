@@ -1,7 +1,6 @@
 ## What’s changed
 
-- Add Logging when Running Fork @dfigus (#61)
+## 🐛 Bug fixes
 
-## ✨ New features
-
-- Add config to run own fork @dfigus (#60)
+- Fix missing COPY command in Dockerfile to include the forked repo @dfigus (#62)
+- Fixes and translations for handling the forked repository @dfigus (#63)

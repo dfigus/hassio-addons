@@ -19,5 +19,5 @@ features:
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.11.0-blue.svg
-[release]: https://github.com/dfigus/addon-solarflow-control/tree/v0.11.0
+[release-shield]: https://img.shields.io/badge/version-v0.11.1-blue.svg
+[release]: https://github.com/dfigus/addon-solarflow-control/tree/v0.11.1
