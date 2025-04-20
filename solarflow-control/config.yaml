@@ -1,5 +1,5 @@
 name: Solarflow Control
-version: 0.10.6
+version: 0.11.0
 slug: solarflow-control
 description: Solarflow Control
 url: https://github.com/dfigus/addon-solarflow-control
@@ -86,4 +86,5 @@ schema:
   longitude: float?
   sunrise_offset: int?
   sunset_offset: int?
+  use_fork: bool?
 image: ghcr.io/dfigus/solarflow-control/{arch}
