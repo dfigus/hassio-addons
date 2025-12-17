@@ -1,7 +1,5 @@
 ## What’s changed
 
-## ⬆️ Dependency updates
+## 🐛 Bug fixes
 
-- ⬆️ Update solarflow-bt-manager digest to 8c3bb87 @[renovate[bot]](https://github.com/apps/renovate) (#76)
-- ⬆️ Update alpine Docker tag to v3.23 @[renovate[bot]](https://github.com/apps/renovate) (#77)
-- Bump Fork 0.79 @dfigus (#78)
+- Bump fork to 0.80 @dfigus (#79)
