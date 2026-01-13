@@ -1,5 +1,9 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 📚 Documentation
 
-- Bump fork to 0.80 @dfigus (#79)
+- Update Year to 2026 @dfigus (#80)
+
+## ⬆️ Dependency updates
+
+- Bump fork to 0.81 @dfigus (#81)
