@@ -1,9 +1,5 @@
 ## What’s changed
 
-## 📚 Documentation
+## 🚀 Enhancements
 
-- Update Year to 2026 @dfigus (#80)
-
-## ⬆️ Dependency updates
-
-- Bump fork to 0.81 @dfigus (#81)
+- Add Config for Battery Discharge Start and Steering Interval @dfigus (#82)
