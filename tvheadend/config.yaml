@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 7.1.0
+version: 8.0.0
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
@@ -11,7 +11,6 @@ panel_icon: mdi:television
 arch:
 - aarch64
 - amd64
-- armv7
 host_network: true
 video: true
 usb: true

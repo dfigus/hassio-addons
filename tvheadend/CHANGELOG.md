@@ -1,56 +1,30 @@
 ## What’s changed
 
+## 🚨 Breaking changes
+
+- Drop armv7 support due to HA 2025.12 armv7 deprecation @dfigus (#543)
+- Drop FFmpeg v4 as its no longer available with alpine 3.23. Only FFmpeg v6 is available in the container
+
 ## 🚀 Enhancements
 
-- Add UTF8 picons and pin to last non-UTF8 release @dfigus (#483)
+- Silence Connection reset by peer errors in nginx @dfigus (#546)
 
-## 📚 Documentation
+## 🧰 Maintenance
 
-- Update Year to 2026 @dfigus (#526)
+- Update Alpine release in renovate config @dfigus (#544)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Add-on base image to v18.2.1 @[renovate[bot]](https://github.com/apps/renovate) (#480)
-- ⬆️ Update Alpine packages to v10.46-r0 @[renovate[bot]](https://github.com/apps/renovate) (#482)
-- ⬆️ Update tvheadend digest to 7de8bf4 @[renovate[bot]](https://github.com/apps/renovate) (#481)
-- ⬆️ Update picons/picons to v2025-10-17--08-28-59 @[renovate[bot]](https://github.com/apps/renovate) (#477)
-- ⬆️ Update picons/picons to v2025-10-20--18-08-37 @[renovate[bot]](https://github.com/apps/renovate) (#484)
-- ⬆️ Update alpine_3_22/dotnet8-runtime to v8.0.21-r0 @[renovate[bot]](https://github.com/apps/renovate) (#485)
-- ⬆️ Update picons/picons to v2025-10-25--23-19-47 @[renovate[bot]](https://github.com/apps/renovate) (#487)
-- ⬆️ Update tvheadend digest to 588a49d @[renovate[bot]](https://github.com/apps/renovate) (#486)
-- ⬆️ Update picons/picons to v2025-10-30--16-24-11 @[renovate[bot]](https://github.com/apps/renovate) (#488)
-- ⬆️ Update tvheadend digest to 00abbbb @[renovate[bot]](https://github.com/apps/renovate) (#489)
-- ⬆️ Update tvheadend digest to 2169e12 @[renovate[bot]](https://github.com/apps/renovate) (#490)
-- ⬆️ Update picons/picons to v2025-11-02--00-47-53 @[renovate[bot]](https://github.com/apps/renovate) (#491)
-- ⬆️ Update picons/picons to v2025-11-12--05-17-58 @[renovate[bot]](https://github.com/apps/renovate) (#493)
-- ⬆️ Update tvheadend digest to 7f9710c @[renovate[bot]](https://github.com/apps/renovate) (#492)
-- ⬆️ Update tvheadend digest to 0b23983 @[renovate[bot]](https://github.com/apps/renovate) (#495)
-- ⬆️ Update picons/picons to v2025-11-13--22-42-00 @[renovate[bot]](https://github.com/apps/renovate) (#498)
-- ⬆️ Update alpine_3_22/jq to v1.8.1-r0 @[renovate[bot]](https://github.com/apps/renovate) (#496)
-- ⬆️ Update picons/picons to v2025-11-21--07-17-33 @[renovate[bot]](https://github.com/apps/renovate) (#499)
-- ⬆️ Update picons/picons to v2025-11-22--20-50-56 @[renovate[bot]](https://github.com/apps/renovate) (#500)
-- ⬆️ Update tvheadend digest to 6fbcaba @[renovate[bot]](https://github.com/apps/renovate) (#501)
-- ⬆️ Update tvheadend digest to 67f98d6 @[renovate[bot]](https://github.com/apps/renovate) (#502)
-- ⬆️ Update alpine_3_22/dotnet8-runtime to v8.0.22-r0 @[renovate[bot]](https://github.com/apps/renovate) (#504)
-- ⬆️ Update picons/picons to v2025-11-29--16-19-32 @[renovate[bot]](https://github.com/apps/renovate) (#503)
-- ⬆️ Update picons/picons to v2025-12-06--00-50-57 @[renovate[bot]](https://github.com/apps/renovate) (#506)
-- ⬆️ Update tvheadend digest to 23e2089 @[renovate[bot]](https://github.com/apps/renovate) (#507)
-- ⬆️ Update streamlink to v8 @[renovate[bot]](https://github.com/apps/renovate) (#494)
-- ⬆️ Update streamlink to v8.1.0 @[renovate[bot]](https://github.com/apps/renovate) (#508)
-- ⬆️ Update tvheadend digest to c3e6e66 @[renovate[bot]](https://github.com/apps/renovate) (#510)
-- ⬆️ Update tvheadend digest to fa8011b @[renovate[bot]](https://github.com/apps/renovate) (#511)
-- ⬆️ Update picons/picons to v2025-12-19--00-04-29 @[renovate[bot]](https://github.com/apps/renovate) (#509)
-- ⬆️ Update tvheadend digest to 00565cf @[renovate[bot]](https://github.com/apps/renovate) (#513)
-- ⬆️ Update picons/picons to v2025-12-27--12-46-25 @[renovate[bot]](https://github.com/apps/renovate) (#512)
-- ⬆️ Update tvheadend digest to 1c45a7c @[renovate[bot]](https://github.com/apps/renovate) (#514)
-- ⬆️ Update tvheadend digest to 3d92f9f @[renovate[bot]](https://github.com/apps/renovate) (#515)
-- ⬆️ Update tvheadend digest to 646fcdb @[renovate[bot]](https://github.com/apps/renovate) (#516)
-- ⬆️ Update tvheadend digest to e60aa93 @[renovate[bot]](https://github.com/apps/renovate) (#517)
-- ⬆️ Update picons/picons to v2026 @[renovate[bot]](https://github.com/apps/renovate) (#518)
-- ⬆️ Update tvheadend digest to 0b4b6b4 @[renovate[bot]](https://github.com/apps/renovate) (#519)
-- ⬆️ Update tvheadend digest to 3d80bab @[renovate[bot]](https://github.com/apps/renovate) (#520)
-- ⬆️ Update tvheadend digest to 4980ee4 @[renovate[bot]](https://github.com/apps/renovate) (#521)
-- ⬆️ Update tvheadend digest to f5fb30a @[renovate[bot]](https://github.com/apps/renovate) (#522)
-- ⬆️ Update tvheadend digest to 5886126 @[renovate[bot]](https://github.com/apps/renovate) (#523)
-- ⬆️ Update picons/picons to v2026-01-11--00-25-09 @[renovate[bot]](https://github.com/apps/renovate) (#524)
-- ⬆️ Update tvheadend digest to 212b9d1 @[renovate[bot]](https://github.com/apps/renovate) (#525)
+- ⬆️ Update tvheadend digest to 5abbcda @[renovate[bot]](https://github.com/apps/renovate) (#527)
+- ⬆️ Update picons/picons to v2026-01-13--16-16-34 @[renovate[bot]](https://github.com/apps/renovate) (#528)
+- ⬆️ Update streamlink to v8.1.1 @[renovate[bot]](https://github.com/apps/renovate) (#529)
+- ⬆️ Update streamlink to v8.1.2 @[renovate[bot]](https://github.com/apps/renovate) (#530)
+- ⬆️ Update picons/picons to v2026-01-17--20-19-57 @[renovate[bot]](https://github.com/apps/renovate) (#531)
+- ⬆️ Update setuptools to v80.10.1 @[renovate[bot]](https://github.com/apps/renovate) (#532)
+- ⬆️ Update picons/picons to v2026-01-21--23-45-40 @[renovate[bot]](https://github.com/apps/renovate) (#533)
+- ⬆️ Update picons/picons to v2026-01-24--21-06-28 @[renovate[bot]](https://github.com/apps/renovate) (#534)
+- ⬆️ Update setuptools to v80.10.2 @[renovate[bot]](https://github.com/apps/renovate) (#535)
+- ⬆️ Update tvheadend digest to 7c4011d @[renovate[bot]](https://github.com/apps/renovate) (#539)
+- ⬆️ Update picons/picons to v2026-02-21--01-40-01 @[renovate[bot]](https://github.com/apps/renovate) (#538)
+- ⬆️ Update streamlink to v8.2.0 @[renovate[bot]](https://github.com/apps/renovate) (#542)
+- ⬆️ Update alpine Docker tag to v3.23 @[renovate[bot]](https://github.com/apps/renovate) (#505)
