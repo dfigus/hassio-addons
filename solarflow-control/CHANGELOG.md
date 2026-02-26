@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🚨 Breaking changes
 
-- Add Config for Battery Discharge Start and Steering Interval @dfigus (#82)
+- Drop armv7/armhf/i386 support due to HA 2025.12 deprecation @dfigus (#83)
