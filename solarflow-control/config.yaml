@@ -1,5 +1,5 @@
 name: Solarflow Control
-version: 1.0.0
+version: 1.0.1
 slug: solarflow-control
 description: Solarflow Control
 url: https://github.com/dfigus/addon-solarflow-control
@@ -19,6 +19,7 @@ options:
   control_soc: false
   battery_low: 5
   battery_high: 100
+  min_force_interval: 6
   disable_full_discharge: false
   mqtt_host: ''
   mqtt_user: ''
@@ -57,6 +58,7 @@ schema:
   disable_full_discharge: bool
   battery_low: int
   battery_high: int
+  min_force_interval: int?
   mqtt_host: str
   mqtt_port: port?
   mqtt_user: str?
