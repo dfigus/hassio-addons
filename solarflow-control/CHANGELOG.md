@@ -1,5 +1,5 @@
 ## What’s changed
 
-## ⬆️ Dependency updates
+## 🐛 Bug fixes
 
-- Bump fork to v0.83 @dfigus (#87)
+- Bump fork to v0.84 @dfigus (#88)
